@@ -4780,7 +4780,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6777840510841117080, guid: 4145e24d86112a6418667d26a41589f2, type: 3}
       propertyPath: m_Name
-      value: Crusher1 (1)
+      value: Crusher2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6777840510841117076, guid: 4145e24d86112a6418667d26a41589f2, type: 3}
