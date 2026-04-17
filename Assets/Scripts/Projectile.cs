@@ -11,6 +11,7 @@ public class Projectile : MonoBehaviour
     void Start()
     {
         direction = GameObject.FindGameObjectWithTag("Player").GetComponent<Throwable>();
+        teleport = GameObject.FindGameObjectWithTag("Exit").GetComponent<Teleport>();
     }
 
     // Update is called once per frame
